@@ -6,10 +6,13 @@ SMS4算法是在国内广泛使用的WAPI无线网络标准中使用的加密算
 
 SMS4算法的加解密过程中使用的算法是完全相同的，唯一不同点在于该算法的解密密钥是由它的加密密钥进行逆序变换后得到的。
 
+https://baike.baidu.com/item/SMS4%E7%AE%97%E6%B3%95/16858974
 
 ### Usage:
 
 `change Main.java set SMS4_KEY`
+
+`len(SMS4_KEY) = 16`
 
 e.g.
 
