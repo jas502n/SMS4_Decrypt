@@ -31,3 +31,7 @@ e.g.
 [+] Input SMS4 Password= 
 
 ```
+
+打包jar
+
+`mvn install`
